@@ -1,10 +1,15 @@
 # ✨ Hi, I'm Aseel Khatib 👩🏻‍💻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AseelKhatib3&label=Profile%20views&color=ff69b4&style=flat" alt="AseelKhatib3" /> </p>
 
-### Computer Science Student | Full-Stack Developer | Problem Solver
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Building+Meaningful+Projects;Always+Learning+New+Technologies" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Aseel%20Khatib&fontSize=40&fontColor=ffffff" />
+</p>
+
+### Computer Science Student | Web, Mobile & QA developer | Problem Solver
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Senior+Computer+Science+Student;Passionate+about+Web+Development;Mobile+App+Development;QA+%26+Software+Testing;Problem+Solving+Enthusiast;Building+Meaningful+Projects" />
 </p>
 
 ---
