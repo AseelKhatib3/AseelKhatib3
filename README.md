@@ -81,10 +81,12 @@ goal_2026: Build impactful software products
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AseelKhatib3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AseelKhatib3&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AseelKhatib3&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=AseelKhatib3&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
