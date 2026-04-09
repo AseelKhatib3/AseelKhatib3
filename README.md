@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Designing%20Web%20%26%20Mobile%20Solutions%20with%20Passion&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Web%20%7C%20Mobile%20%7C%20QA&fontSize=42&fontColor=ffffff" />
 </p>
+
 
 <p align="center">
   <b>Senior Computer Science Student | Web, Mobile & QA Enthusiast | Problem Solver</b>
