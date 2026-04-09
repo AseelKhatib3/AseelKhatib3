@@ -77,7 +77,6 @@ goal_2026: Build impactful software products
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Software%20Testing-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
----
 
 ## 📊 GitHub Analytics
 
