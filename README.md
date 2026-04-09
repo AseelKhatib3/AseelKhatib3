@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Web%20%7C%20Mobile%20%7C%20QA&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Learn%20as%20if%20you%20were%20to%20live%20forever&fontSize=28&fontColor=ffffff" />
 </p>
 
 
 <p align="center">
-  <b>Senior Computer Science Student | Web, Mobile & QA Enthusiast | Problem Solver</b>
+  <b>Senior Computer Science Student | Web, Mobile & QA developer | Problem Solver</b>
 </p>
 
 <p align="center">
