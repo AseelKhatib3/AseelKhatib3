@@ -90,9 +90,15 @@ goal_2026: Build impactful software products
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [www.linkedin.com/in/aseel-khatib-a1a848383](https://www.linkedin.com/in/aseel-khatib-a1a848383)
-* 📧 Email: [asselkhatib832@gmail.com](mailto:asselkhatib832@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/aseel-khatib-a1a848383" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aseel%20Khatib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:asselkhatib832@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">⭐ Thanks for visiting my profile ⭐</p>
