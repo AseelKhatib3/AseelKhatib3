@@ -35,8 +35,7 @@ goal_2026: Build impactful software products
 
 ---
 
-## 🛠️ Tech Arsenal
-
+## 🛠️ Skills & Tools
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -60,7 +59,7 @@ goal_2026: Build impactful software products
   <img src="https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🛠️ Skills & Tools
+### 🛠️ Tools & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
