@@ -1,8 +1,11 @@
 # ✨ Hi, I'm Aseel Khatib 👩🏻‍💻
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AseelKhatib3&label=Profile%20views&color=ff69b4&style=flat" alt="AseelKhatib3" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AseelKhatib3&label=Profile%20views&color=ff69b4&style=flat" alt="AseelKhatib3" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Aseel%20Khatib&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Designing%20Web%20%26%20Mobile%20Solutions%20with%20Passion&fontSize=30&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -10,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Passionate+about+Web+Development;Mobile+App+Development;QA+%26+Software+Testing;Problem+Solving+Enthusiast;Building+Meaningful+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1200&lines=Passionate+about+Web+Development;Crafting+Beautiful+Mobile+App+Experiences;Driven+by+QA+and+Software+Quality;Problem+Solving+with+Creativity;Turning+Ideas+into+Meaningful+Projects;Always+Learning+and+Growing" />
 </p>
 
 ---
