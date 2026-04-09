@@ -1,4 +1,5 @@
 # ✨ Hi, I'm Aseel Khatib 👩🏻‍💻
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AseelKhatib3&label=Profile%20views&color=ff69b4&style=flat" alt="AseelKhatib3" /> </p>
 
 ### Computer Science Student | Full-Stack Developer | Problem Solver
 
