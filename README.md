@@ -37,42 +37,46 @@ goal_2026: Build impactful software products
 
 ## 🛠️ Tech Arsenal
 
-### Languages
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+### 🎨 Frontend & Mobile
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-### Frameworks & Tools
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+### 🛠️ Tools & IDEs
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
----
-
-## 🌟 Featured Projects
-
-### 🎉 Eventify
-
-An event management system built as my graduation project.
-
-* task management
-* event scheduling
-* user-friendly dashboard
-* modern UI
-
-### 🧠 Dynamic Programming Optimizer
-
-Smart route optimization system using dynamic programming.
-
-### 📱 Trip Planner Mobile App
-
-A mobile app for planning trips, activities, and schedules.
-
+### 🌐 Other Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Software%20Testing-8A2BE2?style=for-the-badge&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Analytics
@@ -84,25 +88,10 @@ A mobile app for planning trips, activities, and schedules.
 
 ---
 
-## 🎯 What I’m Focusing On
-
-* 🚀 Backend APIs
-* 🎨 Better UI/UX design
-* ☁️ Deployment & Cloud
-* 🐳 Docker + DevOps basics
-* ⚡ Clean architecture
-
----
-
-## 💬 Dev Quote
-
-> "Great software is built with logic, creativity, and patience."
-
----
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [www.linkedin.com/in/aseel-khatib-a1a848383](http://www.linkedin.com/in/aseel-khatib-a1a848383)
+* 💼 LinkedIn: [www.linkedin.com/in/aseel-khatib-a1a848383](https://www.linkedin.com/in/aseel-khatib-a1a848383)
 * 📧 Email: [asselkhatib832@gmail.com](mailto:asselkhatib832@gmail.com)
 
 ---
