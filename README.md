@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <b>Senior Computer Science Student | Web, Mobile & QA developer | Problem Solver</b>
+  <b> Computer Science Student | Web, Mobile & QA developer | Problem Solver</b>
 </p>
 
 <p align="center">
