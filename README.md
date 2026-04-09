@@ -80,9 +80,6 @@ goal_2026: Build impactful software products
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AseelKhatib3&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=AseelKhatib3&theme=tokyonight&hide_border=true" />
@@ -101,6 +98,6 @@ goal_2026: Build impactful software products
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
+
 
 <p align="center">⭐ Thanks for visiting my profile ⭐</p>
