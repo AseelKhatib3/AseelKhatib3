@@ -30,7 +30,6 @@ interests:
   - Mobile Applications
   - UI/UX Design
   - Problem Solving
-goal_2026: Build impactful software products
 ```
 
 ---
