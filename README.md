@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=AseelKhatib3&label=Profile%20views&color=ff69b4&style=flat" alt="AseelKhatib3" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=180&section=header&text=Learn%20as%20if%20you%20were%20to%20live%20forever&fontSize=28&fontColor=ffffff" />
-</p>
+
 
 
 <p align="center">
